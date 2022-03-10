@@ -1,0 +1,1 @@
+scoreboard objectives add somewhere_else trigger
