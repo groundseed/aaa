@@ -1,1 +1,1 @@
-scoreboard objectives add somewhere_else trigger
+scoreboard objectives add end trigger
